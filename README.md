@@ -40,14 +40,15 @@ Welcome to the Melbourne Housing Market Analysis project. This project provides 
 
 The figure shows the top 10 suburbs in Melbourne based on the count of property sales. Reservoir has the highest count with 510 sales, followed by Bentleigh East and Richmond with 369 and 327 sales, respectively. This indicates high demand and popularity among buyers in these suburbs.
 
-<img src="https://github.com/mohamedhayaty/Melbourne-Housing-project-/blob/main/Q1.png" alt="Top 10 Suburbs with Highest Sales Count" width="400">
+<img src="https://github.com/mohamedhayaty/Melbourne-Housing-project-/blob/main/Q1.png" alt="Top 10 Suburbs with Highest Sales Count" width="500">
 
 
 ### 2) Which are the top 10 suburbs with the highest average property prices?
 
 The figure shows the top 10 suburbs in Melbourne based on the median price of property sales. Ivanhoe East has the highest median price at 1,601,000 AUD, followed by Princes Hill and Beaumaris at 1,530,000 AUD and 1,515,000 AUD, respectively.
 
-![Top 10 Suburbs with Highest Average Prices](https://github.com/mohamedhayaty/Melbourne-Housing-project-/blob/main/Q2.png)
+<img src="https://github.com/mohamedhayaty/Melbourne-Housing-project-/blob/main/Q2.png" alt="Top 10 Suburbs with Highest Average Prices" width="500">
+
 
 ### 3) How do the prices and sales of modern properties compare to those of historic properties?
 
