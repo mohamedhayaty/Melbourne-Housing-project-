@@ -40,7 +40,7 @@ Welcome to the Melbourne Housing Market Analysis project. This project provides 
 
 The figure shows the top 10 suburbs in Melbourne based on the count of property sales. Reservoir has the highest count with 510 sales, followed by Bentleigh East and Richmond with 369 and 327 sales, respectively. This indicates high demand and popularity among buyers in these suburbs.
 
-![Top 10 Suburbs with Highest Sales Count](https://github.com/mohamedhayaty/Melbourne-Housing-project-/blob/main/Q1.png){:width="400px"}
+![Top 10 Suburbs with Highest Sales Count](https://github.com/mohamedhayaty/Melbourne-Housing-project-/blob/main/Q1.png){:width="300px"}
 
 ### 2) Which are the top 10 suburbs with the highest average property prices?
 
