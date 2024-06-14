@@ -40,13 +40,13 @@ Welcome to the Melbourne Housing Market Analysis project. This project provides 
 
 The figure shows the top 10 suburbs in Melbourne based on the count of property sales. Reservoir has the highest count with 510 sales, followed by Bentleigh East and Richmond with 369 and 327 sales, respectively. This indicates high demand and popularity among buyers in these suburbs.
 
-![Top 10 Suburbs with Highest Sales Count]("C:\Users\moham\Desktop\melbourne project pictures\Q1.png")
+![Top 10 Suburbs with Highest Sales Count](https://github.com/mohamedhayaty/Melbourne-Housing-project-/blob/main/Q1.png)
 
 ### 2) Which are the top 10 suburbs with the highest average property prices?
 
 The figure shows the top 10 suburbs in Melbourne based on the median price of property sales. Ivanhoe East has the highest median price at 1,601,000 AUD, followed by Princes Hill and Beaumaris at 1,530,000 AUD and 1,515,000 AUD, respectively.
 
-![Top 10 Suburbs with Highest Average Prices]("C:\Users\moham\Desktop\melbourne project pictures\Q2.png")
+![Top 10 Suburbs with Highest Average Prices](https://github.com/mohamedhayaty/Melbourne-Housing-project-/blob/main/Q2.png)
 
 ### 3) How do the prices and sales of modern properties compare to those of historic properties?
 
@@ -55,8 +55,8 @@ The figure shows the top 10 suburbs in Melbourne based on the median price of pr
 - Conclusion: While historic properties may have a higher price on average, modern properties are more popular in terms of sales count.
 
 <div style="display: flex; justify-content: center;">
-    <img src="C:\Users\moham\Desktop\melbourne project pictures\Q3 Price.png" alt="Price" style="width: 45%; margin-right: 5px;">
-    <img src="C:\Users\moham\Desktop\melbourne project pictures\Q3 Sales.png" alt="sales" style="width: 45%; margin-left: 5px;">
+    <img src="https://github.com/mohamedhayaty/Melbourne-Housing-project-/blob/main/Q3%20Price.png" alt="Price" style="width: 45%; margin-right: 5px;">
+    <img src="https://github.com/mohamedhayaty/Melbourne-Housing-project-/blob/main/Q3%20Sales.png" alt="sales" style="width: 45%; margin-left: 5px;">
 </div>
 
 ### 4) How does the age of a property affect its price and sales compared to modern and historic properties?
@@ -67,8 +67,8 @@ The figure shows the top 10 suburbs in Melbourne based on the median price of pr
 - Mid-century properties (aged 30-80 years) have the highest sales count.
 
 <div style="display: flex; justify-content: center;">
-    <img src="C:\Users\moham\Desktop\melbourne project pictures\Q4 price.png" alt="Price" style="width: 45%; margin-right: 5px;">
-    <img src="C:\Users\moham\Desktop\melbourne project pictures\Q4 SALES.png" alt="sales" style="width: 45%; margin-left: 5px;">
+    <img src="https://github.com/mohamedhayaty/Melbourne-Housing-project-/blob/main/Q4%20price.png" alt="Price" style="width: 45%; margin-right: 5px;">
+    <img src="https://github.com/mohamedhayaty/Melbourne-Housing-project-/blob/main/Q4%20SALES.png" alt="sales" style="width: 45%; margin-left: 5px;">
 </div>
 
 ### 5) Is there a correlation between the price and sales of a property regarding different regions?
@@ -76,24 +76,24 @@ The figure shows the top 10 suburbs in Melbourne based on the median price of pr
 - The charts show a positive correlation between the average price of properties and sales count per region.
 - Regions with higher average prices also have higher sales counts.
 
-![Average Price and Sales Count per Region]("C:\Users\moham\Desktop\melbourne project pictures\Q5 BOTH.png")
+![Average Price and Sales Count per Region](https://github.com/mohamedhayaty/Melbourne-Housing-project-/blob/main/Q5%20BOTH.png)
 
 ### 6) Where should I buy a 2 bedroom unit?
 
 - Regions with the highest average price for 2-bedroom properties are Southern Metropolitan and Eastern Metropolitan.
 - These regions also have the highest overall property prices, indicating a positive correlation.
 
-![Price of 2 Bedroom Units]("C:\Users\moham\Desktop\melbourne project pictures\Q6.png")
+![Price of 2 Bedroom Units](https://github.com/mohamedhayaty/Melbourne-Housing-project-/blob/main/Q6.png)
 
 ### 7) Is there a relationship between property prices and sales and their distance from the city center?
 
 - Scatter plot shows a negative correlation: property prices decrease with increasing distance from the city center.
-![Property Prices and Sales by Distance from City Center]("C:\Users\moham\Desktop\melbourne project pictures\Q7 CORR PRICE PER DISTANCE.png")
+![Property Prices and Sales by Distance from City Center](https://github.com/mohamedhayaty/Melbourne-Housing-project-/blob/main/Q7%20CORR%20PRICE%20PER%20DISTANCE.png)
 - Bar charts show that properties closer to the city center have higher prices and sales counts.
 
 <div style="display: flex; justify-content: center;">
-    <img src="C:\Users\moham\Desktop\melbourne project pictures\Q7 AVG PRICES PER DISTANCE.png" alt="Price" style="width: 45%; margin-right: 5px;">
-    <img src="C:\Users\moham\Desktop\melbourne project pictures\Q7 SALES AVG PER DISTANCE.png" alt="sales" style="width: 45%; margin-left: 5px;">
+    <img src="https://github.com/mohamedhayaty/Melbourne-Housing-project-/blob/main/Q7%20AVG%20PRICES%20PER%20DISTANCE.png" alt="Price" style="width: 45%; margin-right: 5px;">
+    <img src="https://github.com/mohamedhayaty/Melbourne-Housing-project-/blob/main/Q7%20SALES%20AVG%20PER%20DISTANCE.png" alt="sales" style="width: 45%; margin-left: 5px;">
 </div>
 
 
@@ -101,22 +101,22 @@ The figure shows the top 10 suburbs in Melbourne based on the median price of pr
 
 - Metropolitan regions closer to the city center have the highest prices, sales, and sales of 2-bedroom properties.
 
-![Regional Comparison of Prices and Sales]("C:\Users\moham\Desktop\melbourne project pictures\Q8.png")
+![Regional Comparison of Prices and Sales](https://github.com/mohamedhayaty/Melbourne-Housing-project-/blob/main/Q8.png)
 
 ### 9) Is there a correlation between the distance of a property from the city center and its building to land ratio?
 
 - Positive correlation between building to land ratio and property prices as distance to city center decreases.
 - Higher building density near the city center contributes to higher property prices.
 
-![Building to Land Ratio vs Distance]("C:\Users\moham\Desktop\melbourne project pictures\Q9.png")
+![Building to Land Ratio vs Distance](https://github.com/mohamedhayaty/Melbourne-Housing-project-/blob/main/Q9.png)
 
 ### 10) How does the number of units of each housing type affect their prices, and what is the quantity and ratio of each type of unit in the area?
 
 - Houses are the most common property type (68.4%) and have the highest average price (1,127,073 AUD).
 - Units are the least expensive type but still have a relatively high count compared to townhouses.
 
-![Property Type Count and Prices]("C:\Users\moham\Desktop\melbourne project pictures\Q10 1.png")
-![Property Type Count and Prices]("C:\Users\moham\Desktop\melbourne project pictures\Q10 2.png")
+![Property Type Count and Prices](https://github.com/mohamedhayaty/Melbourne-Housing-project-/blob/main/Q10%201.png)
+![Property Type Count and Prices](https://github.com/mohamedhayaty/Melbourne-Housing-project-/blob/main/Q10%202.png)
 
 
 ### 11) What is the correlation between the number of rooms in a property and its sales count and price?
@@ -124,7 +124,7 @@ The figure shows the top 10 suburbs in Melbourne based on the median price of pr
 - Properties with 2, 3, and 4 rooms have the highest sales count and command some of the best average prices.
 - Properties with 3 rooms have the highest sales count.
 
-![Number of Rooms vs Sales Count and Price]("C:\Users\moham\Desktop\melbourne project pictures\Q11.png")
+![Number of Rooms vs Sales Count and Price](https://github.com/mohamedhayaty/Melbourne-Housing-project-/blob/main/Q11.png)
 
 ## Final Conclusion
 
