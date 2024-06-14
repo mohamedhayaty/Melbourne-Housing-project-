@@ -85,7 +85,7 @@ The figure shows the top 10 suburbs in Melbourne based on the median price of pr
 - Regions with the highest average price for 2-bedroom properties are Southern Metropolitan and Eastern Metropolitan.
 - These regions also have the highest overall property prices, indicating a positive correlation.
 
-![Price of 2 Bedroom Units](https://github.com/mohamedhayaty/Melbourne-Housing-project-/blob/main/Q6.png)
+<img src="https://github.com/mohamedhayaty/Melbourne-Housing-project-/blob/main/Q6.png" alt="Price of 2 Bedroom Units" width="500">
 
 ### 7) Is there a relationship between property prices and sales and their distance from the city center?
 
@@ -102,8 +102,10 @@ The figure shows the top 10 suburbs in Melbourne based on the median price of pr
 ### 8) How do different regions compare in terms of their distance from the city center, property prices, and sales?
 
 - Metropolitan regions closer to the city center have the highest prices, sales, and sales of 2-bedroom properties.
+- The chart indicates that the metropolitan regions, which are closer to the city center, have the highest rates in price, sales, and sales of properties with 2 bedrooms, in line with our previous discussion in question 5 & 6.
 
-![Regional Comparison of Prices and Sales](https://github.com/mohamedhayaty/Melbourne-Housing-project-/blob/main/Q8.png)
+<img src="https://github.com/mohamedhayaty/Melbourne-Housing-project-/blob/main/Q8.png" alt="Region's distance" width="500">
+
 
 ### 9) Is there a correlation between the distance of a property from the city center and its building to land ratio?
 
@@ -115,9 +117,11 @@ The figure shows the top 10 suburbs in Melbourne based on the median price of pr
 ### 10) How does the number of units of each housing type affect their prices, and what is the quantity and ratio of each type of unit in the area?
 
 - Houses are the most common property type (68.4%) and have the highest average price (1,127,073 AUD).
-- Units are the least expensive type but still have a relatively high count compared to townhouses.
 
 ![Property Type Count and Prices](https://github.com/mohamedhayaty/Melbourne-Housing-project-/blob/main/Q10%201.png)
+
+- Units are the least expensive type but still have a relatively high count compared to townhouses.
+
 ![Property Type Count and Prices](https://github.com/mohamedhayaty/Melbourne-Housing-project-/blob/main/Q10%202.png)
 
 
